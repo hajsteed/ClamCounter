@@ -48,6 +48,7 @@ Press 'Export' to store the data into an XLSX spreadsheet named 'SHELL_DATA'.
 The shell data file is stored in the current working directory.
 
 
-The outputted figure displays the wavelet transform of the image, the data regarding the peaks, the original shell image, and
-the averaged and inverted transform. The number of peaks corresponds to the number of lines detected throughout the image and
+The outputted figure displays the wavelet transform of the image, the data regarding the peaks, 
+the original shell image, and the averaged and inverted transform. 
+The number of peaks corresponds to the number of lines detected throughout the image and
 the distances between them represents the width of the lines.
